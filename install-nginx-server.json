@@ -1,4 +1,0 @@
-{
-    "fileuris": ["https://raw.githubusercontent.com/olumideo/learn-az104/main/install-nginx-webserver.sh"],
-    "commandToExecute": "./install-nginx-server.sh"
-}

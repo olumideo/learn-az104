@@ -1,3 +1,3 @@
-#
-az vm extension set --resource-group createvmonps --vm-name customextvm1 --name customScript --publisher Microsoft.Azure.Extensions --settings install-nginx-server.json
+## The --name, --publisher, and --settings are scrictly named
+az vm extension set --resource-group createvmonps --vm-name customextvm1 --name customScript --publisher Microsoft.Azure.Extensions --settings customscript.json
 
